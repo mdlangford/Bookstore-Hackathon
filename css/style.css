@@ -30,3 +30,55 @@
   background-color: lightgreen;
   padding-bottom: 2%;
 }
+/*
+
+SHALISA STYLE css
+
+img {
+  width: 250px;
+}
+.navigation {
+  padding-top: 1em;
+  padding-bottom: 0.5em;
+  background-color: sienna;
+  text-align:center;
+}
+.navigation ul > li {
+  display:inline;
+  list-style: : none;
+}
+
+.book {
+  margin:1em;
+  padding: 5%;
+  display: inline-block;
+}
+
+.book > ul > div > li {
+
+  list-style:none;
+  padding-left:0pt;
+}
+
+#bookwrapper {
+padding-left:0pt;
+  margin: 0px auto;
+  width:220;
+  display:inline;
+}
+.form {
+  margin-left:10%;
+  margin-right:10%;
+}
+
+.header {
+  text-align: center;
+  border-bottom: brown solid ;
+  background-color: lightgreen;
+}
+
+.footer {
+  text-align: center;
+  }
+
+*/
