@@ -5,7 +5,7 @@
 .navigation ul > li {
   display:inline;
   list-style: : none;
-}
+  }
 
 .book {
   margin:1em;
@@ -25,4 +25,8 @@
 .form {
   margin-left:10%;
   margin-right:10%;
+}
+#formDivider{
+  background-color: lightgreen;
+  padding-bottom: 2%;
 }
